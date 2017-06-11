@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # http://www.gnu.org/software/automake
 
 Makefile.in
@@ -31,3 +32,16 @@ Makefile.in
 # http://www.gnu.org/software/texinfo
 
 /texinfo.tex
+=======
+asm/
+crash-reports/
+dumps/
+fonts/
+local/
+logs/
+modpack/
+saves/
+.curseclient
+minecraftinstance.json
+usernamecache.json
+>>>>>>> initial commit
