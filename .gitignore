@@ -8,4 +8,5 @@ modpack/
 saves/
 .curseclient
 minecraftinstance.json
+usercache.json
 usernamecache.json
