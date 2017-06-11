@@ -69,6 +69,7 @@ nei.options.keys.gui.prev=Pág. Anterior
 nei.options.keys.gui.next=Próxima Pág.
 nei.options.keys.gui.hide=Trocar Visibilidade do NEI
 nei.options.keys.gui.search=Ativar a Barra de Buscas
+nei.options.keys.showenchant=Mostrar encantamentos
 nei.options.keys.world=Mundo
 nei.options.keys.world.chunkoverlay=Superposição de Fronteira de Chunks
 nei.options.keys.world.moboverlay=Superposição de Spawn de Mobs
