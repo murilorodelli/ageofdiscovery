@@ -1,134 +1,134 @@
-key.betterfoliage.gui=Abrir Configurações
+key.betterfoliage.gui=Open Settings
 
-betterfoliage.global.enabled=Habilitar Mod
-betterfoliage.global.enabled.tooltip=Se configurado como falso, BetterFoliage não renderizará nada
+betterfoliage.global.enabled=Enable Mod
+betterfoliage.global.enabled.tooltip=If set to false, BetterFoliage will not render anything
 
-betterfoliage.enabled=Habilitar
-betterfoliage.enabled.tooltip=Esse recurso está ativado?
-betterfoliage.hOffset=Deslocamento horizontal
-betterfoliage.hOffset.tooltip=A distância que este elemento é deslocado horizontalmente, em blocos
-betterfoliage.vOffset=Deslocamento vertical
-betterfoliage.vOffset.tooltip=A distância que este elemento é deslocado verticalmente, em blocos
-betterfoliage.size=Tamanho
-betterfoliage.size.tooltip=Tamanho desse elemento
-betterfoliage.heightMin=Altura mínima
-betterfoliage.heightMin.tooltip=Altura mínima do elemento
-betterfoliage.heightMax=Altura máxima
-betterfoliage.heightMax.tooltip=Altura máxima do elemento
-betterfoliage.population=População
-betterfoliage.population.tooltip=Chance (N em 64) de que um bloco elegível terá esse recurso
-betterfoliage.shaderWind=Shaderde Efeitos de vento
-betterfoliage.shaderWind.tooltip=Aplicar efeitos de vento dos Shaders Mod Shaders para este elemento?
-betterfoliage.distance=Limite de distância
-betterfoliage.distance.tooltip=Distância máxima do jogador para renderizar esse recurso
+betterfoliage.enabled=Enable
+betterfoliage.enabled.tooltip=Is this feature enabled?
+betterfoliage.hOffset=Horizontal offset
+betterfoliage.hOffset.tooltip=The distance this element is shifted horizontally, in blocks
+betterfoliage.vOffset=Vertical offset
+betterfoliage.vOffset.tooltip=The distance this element is shifted vertically, in blocks
+betterfoliage.size=Size
+betterfoliage.size.tooltip=Size of this element
+betterfoliage.heightMin=Minimum height
+betterfoliage.heightMin.tooltip=Minimum height of element
+betterfoliage.heightMax=Maximum height
+betterfoliage.heightMax.tooltip=Maximum height of element
+betterfoliage.population=Population
+betterfoliage.population.tooltip=Chance (N in 64) that an eligible block will have this feature
+betterfoliage.shaderWind=Shader wind effects
+betterfoliage.shaderWind.tooltip=Apply wind effects from ShaderMod shaders to this element?
+betterfoliage.distance=Distance limit
+betterfoliage.distance.tooltip=Maximum distance from player at which to render this feature 
 
 betterfoliage.blocks=Block Types
 betterfoliage.blocks.tooltip=Configure lists of block classes that will have specific features applied to them
 
-betterfoliage.blocks.dirtWhitelist=Lista Branca de Terra
-betterfoliage.blocks.dirtBlacklist=Lista Negra de Terra
-betterfoliage.blocks.dirtWhitelist.arrayEntry=%d entradas
-betterfoliage.blocks.dirtBlacklist.arrayEntry=%d entradas
+betterfoliage.blocks.dirtWhitelist=Dirt Whitelist
+betterfoliage.blocks.dirtBlacklist=Dirt Blacklist
+betterfoliage.blocks.dirtWhitelist.arrayEntry=%d entries
+betterfoliage.blocks.dirtBlacklist.arrayEntry=%d entries
 
-betterfoliage.blocks.grassWhitelist=Lista Branca de Grama
-betterfoliage.blocks.grassBlacklist=Lista Negra de Grama
-betterfoliage.blocks.grassWhitelist.arrayEntry=%d entradas
-betterfoliage.blocks.grassBlacklist.arrayEntry=%d entradas
+betterfoliage.blocks.grassWhitelist=Grass Whitelist
+betterfoliage.blocks.grassBlacklist=Grass Blacklist
+betterfoliage.blocks.grassWhitelist.arrayEntry=%d entries
+betterfoliage.blocks.grassBlacklist.arrayEntry=%d entries
 
-betterfoliage.blocks.leavesWhitelist=Lista Branca de Folhas
-betterfoliage.blocks.leavesBlacklist=Lista Negra de Folhas
-betterfoliage.blocks.leavesWhitelist.arrayEntry=%d entradas
-betterfoliage.blocks.leavesBlacklist.arrayEntry=%d entradas
+betterfoliage.blocks.leavesWhitelist=Leaves Whitelist
+betterfoliage.blocks.leavesBlacklist=Leaves Blacklist
+betterfoliage.blocks.leavesWhitelist.arrayEntry=%d entries
+betterfoliage.blocks.leavesBlacklist.arrayEntry=%d entries
 
-betterfoliage.blocks.cropsWhitelist=Lista Branca de Crop
-betterfoliage.blocks.cropsBlacklist=Lista Negra de Crop
-betterfoliage.blocks.cropsWhitelist.arrayEntry=%d entradas
-betterfoliage.blocks.cropsBlacklist.arrayEntry=%d entradas
+betterfoliage.blocks.cropsWhitelist=Crop Whitelist
+betterfoliage.blocks.cropsBlacklist=Crop Blacklist
+betterfoliage.blocks.cropsWhitelist.arrayEntry=%d entries
+betterfoliage.blocks.cropsBlacklist.arrayEntry=%d entries
 
-betterfoliage.blocks.logsWhitelist=Lista Branca de Tronco de Madeira
-betterfoliage.blocks.logsBlacklist=Lista Negra de Tronco de Madeira
-betterfoliage.blocks.logsWhitelist.arrayEntry=%d entradas
-betterfoliage.blocks.logsBlacklist.arrayEntry=%d entradas
+betterfoliage.blocks.logsWhitelist=Wood Log Whitelist
+betterfoliage.blocks.logsBlacklist=Wood Log Blacklist
+betterfoliage.blocks.logsWhitelist.arrayEntry=%d entries
+betterfoliage.blocks.logsBlacklist.arrayEntry=%d entries
 
-betterfoliage.blocks.sandWhitelist=Lista Branca de Areia
-betterfoliage.blocks.sandBlacklist=Lista Negra de Areia
-betterfoliage.blocks.sandWhitelist.arrayEntry=%d entradas
-betterfoliage.blocks.sandBlacklist.arrayEntry=%d entradas
+betterfoliage.blocks.sandWhitelist=Sand Whitelist
+betterfoliage.blocks.sandBlacklist=Sand Blacklist
+betterfoliage.blocks.sandWhitelist.arrayEntry=%d entries
+betterfoliage.blocks.sandBlacklist.arrayEntry=%d entries
 
-betterfoliage.blocks.lilypadWhitelist=Lista Branca de Vitória-Régia
-betterfoliage.blocks.lilypadBlacklist=Lista Negra de Vitória-Régia
-betterfoliage.blocks.lilypadWhitelist.arrayEntry=%d entradas
-betterfoliage.blocks.lilypadBlacklist.arrayEntry=%d entradas
+betterfoliage.blocks.lilypadWhitelist=Lilypad Whitelist
+betterfoliage.blocks.lilypadBlacklist=Lilypad Blacklist
+betterfoliage.blocks.lilypadWhitelist.arrayEntry=%d entries
+betterfoliage.blocks.lilypadBlacklist.arrayEntry=%d entries
 
-betterfoliage.blocks.cactusWhitelist=Lista Branca de Cacto
-betterfoliage.blocks.cactusBlacklist=Lista Negra de Cacto
-betterfoliage.blocks.cactusWhitelist.arrayEntry=%d entradas
-betterfoliage.blocks.cactusBlacklist.arrayEntry=%d entradas
+betterfoliage.blocks.cactusWhitelist=Cactus Whitelist
+betterfoliage.blocks.cactusBlacklist=Cactus Blacklist
+betterfoliage.blocks.cactusWhitelist.arrayEntry=%d entries
+betterfoliage.blocks.cactusBlacklist.arrayEntry=%d entries
 
 
-betterfoliage.blocks.dirtWhitelist.tooltip=Blocks reconhecidos como Terra. Tem um impacto em Canas-de-Açúcar, Alga, Grama Conectada
-betterfoliage.blocks.dirtBlacklist.tooltip=Blocos nunca aceitos como Terra. Tem um impacto em Canas-de-Açúcar, Alga, Grama Conectada
-betterfoliage.blocks.grassWhitelist.tooltip=Blocks reconhecidos como Grama. Tem um impacto em Short Grama, Grama Conectada
-betterfoliage.blocks.grassBlacklist.tooltip=Blocos nunca aceitos como Grama. Tem um impacto em Short Grama, Grama Conectada
-betterfoliage.blocks.leavesWhitelist.tooltip=Blocks reconhecidos como Folhas. Tem um impacto em Extra Folhas, Falling Folhas. Folhas irá renderizar com o ID do bloco das folhas em programas de shaders
-betterfoliage.blocks.leavesBlacklist.tooltip=Blocos nunca aceitos como Folhas. Tem um impacto em Extra Folhas, Falling Folhas. Folhas irá renderizar com o ID do bloco das folhas em programas de shaders
-betterfoliage.blocks.cropsWhitelist.tooltip=Blocks reconhecidos como Crops. Crops will render with tallgrass block ID in shader programs
-betterfoliage.blocks.cropsBlacklist.tooltip=Blocos nunca aceitos como Crops. Crops will render with tallgrass block ID in shader programs
-betterfoliage.blocks.logsWhitelist.tooltip=Blocks reconhecidos como Tronco de Madeira. Tem um impacto em Rounded Logs
-betterfoliage.blocks.logsBlacklist.tooltip=Blocos nunca aceitos como Tronco de Madeira. Tem um impacto em Rounded Logs
-betterfoliage.blocks.sandWhitelist.tooltip=Blocks reconhecidos como Areia. Tem um impacto em Coral
-betterfoliage.blocks.sandBlacklist.tooltip=Blocos nunca aceitos como Areia. Tem um impacto em Coral
-betterfoliage.blocks.lilypadWhitelist.tooltip=Blocks reconhecidos como Vitória-Régia. Tem um impacto em Better Vitória-Régia
-betterfoliage.blocks.lilypadBlacklist.tooltip=Blocos nunca aceitos como Vitória-Régia. Tem um impacto em Better Vitória-Régia
-betterfoliage.blocks.cactusWhitelist.tooltip=Blocks reconhecidos como Cacto. Tem um impacto em Better Cacto
-betterfoliage.blocks.cactusBlacklist.tooltip=Blocos nunca aceitos como Cacto. Tem um impacto em Better Cacto
+betterfoliage.blocks.dirtWhitelist.tooltip=Blocks recognized as Dirt. Has an impact on Reeds, Algae, Connected Grass
+betterfoliage.blocks.dirtBlacklist.tooltip=Blocks never accepted as Dirt. Has an impact on Reeds, Algae, Connected Grass
+betterfoliage.blocks.grassWhitelist.tooltip=Blocks recognized as Grass. Has an impact on Short Grass, Connected Grass
+betterfoliage.blocks.grassBlacklist.tooltip=Blocks never accepted as Grass. Has an impact on Short Grass, Connected Grass
+betterfoliage.blocks.leavesWhitelist.tooltip=Blocks recognized as Leaves. Has an impact on Extra Leaves, Falling Leaves. Leaves will render with leaves block ID in shader programs
+betterfoliage.blocks.leavesBlacklist.tooltip=Blocks never accepted as Leaves. Has an impact on Extra Leaves, Falling Leaves. Leaves will render with leaves block ID in shader programs
+betterfoliage.blocks.cropsWhitelist.tooltip=Blocks recognized as crops. Crops will render with tallgrass block ID in shader programs
+betterfoliage.blocks.cropsBlacklist.tooltip=Blocks never accepted as crops. Crops will render with tallgrass block ID in shader programs
+betterfoliage.blocks.logsWhitelist.tooltip=Blocks recognized as wooden logs. Has an impact on Rounded Logs
+betterfoliage.blocks.logsBlacklist.tooltip=Blocks never accepted as wooden logs. Has an impact on Rounded Logs
+betterfoliage.blocks.sandWhitelist.tooltip=Blocks recognized as Sand. Has an impact on Coral
+betterfoliage.blocks.sandBlacklist.tooltip=Blocks never accepted Sand. Has an impact on Coral
+betterfoliage.blocks.lilypadWhitelist.tooltip=Blocks recognized as Lilypad. Has an impact on Better Lilypad
+betterfoliage.blocks.lilypadBlacklist.tooltip=Blocks never accepted Lilypad. Has an impact on Better Lilypad
+betterfoliage.blocks.cactusWhitelist.tooltip=Blocks recognized as Cactus. Has an impact on Better Cactus
+betterfoliage.blocks.cactusBlacklist.tooltip=Blocks never accepted Cactus. Has an impact on Better Cactus
 
-betterfoliage.leaves=Extra Folhas
+betterfoliage.leaves=Extra Leaves
 betterfoliage.leaves.tooltip=Extra round leaves on leaf blocks
 betterfoliage.leaves.dense=Dense mode
 betterfoliage.leaves.dense.tooltip=Dense mode has more round leaves
 betterfoliage.leaves.snowEnabled=Enable snow
 betterfoliage.leaves.snowEnabled.tooltip=Enable snow on extra leaves?
 
-betterfoliage.shortGrass=Short Grama & Mycelium
+betterfoliage.shortGrass=Short Grass & Mycelium
 betterfoliage.shortGrass.tooltip=Tufts of grass/mycelium on top of appropriate blocks
 betterfoliage.shortGrass.useGenerated=Use generated texture for grass
 betterfoliage.shortGrass.useGenerated.tooltip=Generated texture is made by slicing the tallgrass texture from the active resource pack in half
 betterfoliage.shortGrass.myceliumEnabled=Enable Mycelium
 betterfoliage.shortGrass.myceliumEnabled.tooltip=Is this feature enabled for mycelium blocks?
-betterfoliage.shortGrass.grassEnabled=Enable Grama
+betterfoliage.shortGrass.grassEnabled=Enable Grass
 betterfoliage.shortGrass.grassEnabled.tooltip=Is this feature enabled for grass blocks?
 betterfoliage.shortGrass.snowEnabled=Enable under snow
 betterfoliage.shortGrass.snowEnabled.tooltip=Enable on snowed grass blocks?
 betterfoliage.shortGrass.saturationThreshold=Saturation threshold
 betterfoliage.shortGrass.saturationThreshold.tooltip=Color saturation cutoff between "colorless" blocks (using biome color) and "colorful" blocks (using their own specific color)
 
-betterfoliage.hangingGrass=Hanging Grama
-betterfoliage.hangingGrass.tooltip=Grama tufts hanging down from the top edges of grass blocks
+betterfoliage.hangingGrass=Hanging Grass
+betterfoliage.hangingGrass.tooltip=Grass tufts hanging down from the top edges of grass blocks
 betterfoliage.hangingGrass.separation=Separation
 betterfoliage.hangingGrass.separation.tooltip=How much the hanging grass stands out from the block
 
-betterfoliage.cactus=Better Cacto
+betterfoliage.cactus=Better Cactus
 betterfoliage.cactus.tooltip=Enhance cactus with extra bits and smooth shading
 betterfoliage.cactus.sizeVariation=Size variation
 betterfoliage.cactus.sizeVariation.tooltip=Amount of random variation on cactus size
 
-betterfoliage.lilypad=Better Vitória-Régia
+betterfoliage.lilypad=Better Lilypad
 betterfoliage.lilypad.tooltip=Enhance lilypad with roots and occasional flowers
 betterfoliage.lilypad.flowerChance=Flower chance
 betterfoliage.lilypad.flowerChance.tooltip=Chance (N in 64) of a lilypad having a flower on it
 
-betterfoliage.reed=Canas-de-Açúcar
-betterfoliage.reed.tooltip=Canas-de-Açúcar on dirt blocks in shallow water
+betterfoliage.reed=Reeds
+betterfoliage.reed.tooltip=Reeds on dirt blocks in shallow water
 betterfoliage.reed.biomes=Biome List
 betterfoliage.reed.biomes.tooltip=Configure which biomes reeds are allowed to appear in
 betterfoliage.reed.biomes.tooltip.element=Should reeds appear in the %s biome?
 
-betterfoliage.Alga=Alga
-betterfoliage.Alga.tooltip=Alga on dirt blocks in deep water
-betterfoliage.Alga.biomes=Biome List
-betterfoliage.Alga.biomes.tooltip=Configure which biomes Alga is allowed to appear in
-betterfoliage.Alga.biomes.tooltip.element=Should Alga appear in the %s biome?
+betterfoliage.algae=Algae
+betterfoliage.algae.tooltip=Algae on dirt blocks in deep water
+betterfoliage.algae.biomes=Biome List
+betterfoliage.algae.biomes.tooltip=Configure which biomes algae is allowed to appear in
+betterfoliage.algae.biomes.tooltip.element=Should algae appear in the %s biome?
 
 betterfoliage.coral=Coral
 betterfoliage.coral.tooltip=Coral on sand blocks in deep water
@@ -192,7 +192,7 @@ betterfoliage.risingSoul.trailDensity.tooltip=Render every Nth previous position
 
 betterfoliage.connectedGrass=Connected grass textures
 betterfoliage.connectedGrass.enabled=Enable
-betterfoliage.connectedGrass.enabled.tooltip=If there is a grass block on top of a dirt block: draw grass top texture on all grass block sides,
+betterfoliage.connectedGrass.enabled.tooltip=If there is a grass block on top of a dirt block: draw grass top texture on all grass block sides
 
 betterfoliage.roundLogs=Round Logs
 betterfoliage.roundLogs.tooltip=Connect round blocks to solid full blocks?
@@ -202,7 +202,7 @@ betterfoliage.roundLogs.connectPerpendicular=Connect to perpendicular logs
 betterfoliage.roundLogs.connectPerpendicular.tooltip=Connect round logs to perpendicular logs along its axis?
 betterfoliage.roundLogs.lenientConnect=Lenient rounding
 betterfoliage.roundLogs.lenientConnect.tooltip=Connect parallel round logs in an L-shape too, not just 2x2
-betterfoliage.roundLogs.connectGrass=Connect Grama
+betterfoliage.roundLogs.connectGrass=Connect Grass
 betterfoliage.roundLogs.connectGrass.tooltip=Render grass block under trees instead of dirt if there is grass nearby
 betterfoliage.roundLogs.radiusSmall=Chamfer radius
 betterfoliage.roundLogs.radiusSmall.tooltip=How much to chop off from the log corner
