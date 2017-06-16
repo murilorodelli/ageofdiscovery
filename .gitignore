@@ -10,3 +10,5 @@ saves/
 minecraftinstance.json
 usercache.json
 usernamecache.json
+resourcepacks/*.zip
+shaderpacks/
