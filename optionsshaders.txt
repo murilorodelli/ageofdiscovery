@@ -1,5 +1,5 @@
-#Thu Jun 15 22:27:47 BRT 2017
-shaderPack=SFLP Shaders Lite - RC1.zip
+#Wed Jun 21 23:15:13 BRT 2017
+shaderPack=(internal)
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
